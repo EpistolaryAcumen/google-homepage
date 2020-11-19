@@ -1,0 +1,1 @@
+In this exercise, we will build the frontend part of the google homepage.
