@@ -1,1 +1,1 @@
-In this exercise, we build the frontend component of the google homepage using HTML5 and CSS.
+In this project, we build the frontend component of the google homepage using HTML5 and CSS.
